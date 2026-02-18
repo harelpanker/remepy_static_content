@@ -2,7 +2,7 @@ import { defineConfig } from "vite";
 import { resolve } from "path";
 
 export default defineConfig({
-  base: "/remepy-vite/",
+  base: "/remepy_static_content/",
   build: {
     rollupOptions: {
       input: {
