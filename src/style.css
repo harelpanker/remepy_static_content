@@ -185,7 +185,7 @@ img {
 }
 
 article {
-  line-height: 1;
+  line-height: 1.25;
   text-wrap: pretty;
 
   & > :not(div):first-child,
