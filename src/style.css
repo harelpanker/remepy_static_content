@@ -185,7 +185,7 @@ img {
 }
 
 article {
-  line-height: 1.6;
+  line-height: 1.4;
   text-wrap: pretty;
 
   & > :not(div):first-child,
@@ -265,7 +265,7 @@ article {
   & ol {
     display: flex;
     flex-direction: column;
-    row-gap: 1rem;
+    row-gap: 0.5rem;
     padding-left: 2rem;
   }
 
