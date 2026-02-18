@@ -1,0 +1,10 @@
+main {
+  min-height: 100svh;
+  padding: 2rem 0;
+}
+
+a {
+  padding: 0.5rem 1rem;
+  font-size: 1.125rem;
+  font-weight: 500;
+}
