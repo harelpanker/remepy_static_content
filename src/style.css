@@ -185,7 +185,7 @@ img {
 }
 
 article {
-  line-height: 1.25;
+  line-height: 1.25; /* line height 125% */
   text-wrap: pretty;
 
   & > :not(div):first-child,
@@ -262,12 +262,13 @@ article {
   & ol {
     display: flex;
     flex-direction: column;
-    row-gap: 0.5rem;
-    padding-left: 2rem;
+    row-gap: 0.25rem;
+    padding-left: 1.25rem;
   }
 
   & ul {
-    list-style-type: disc;
+    /*list-style-type: disc;*/
+    list-style-type: square;
   }
 
   & ol {
