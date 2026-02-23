@@ -155,7 +155,7 @@ img {
 }
 
 .container {
-  width: 92%;
+  width: 92svw;
   max-width: 33.75rem;
   margin: 0 auto;
   position: relative;
@@ -185,8 +185,7 @@ img {
 }
 
 article {
-  line-height: 1.25; /* line height 125% */
-  text-wrap: pretty;
+  line-height: 125%; /* line height 125% */
 
   & > :not(div):first-child,
   & > div:first-child > :first-child {
