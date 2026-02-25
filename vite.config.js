@@ -11,6 +11,7 @@ export default defineConfig({
         mindfulness: resolve(__dirname, "articles/mindfulness.html"),
         relaxation: resolve(__dirname, "articles/relaxation.html"),
         "healthy-eating": resolve(__dirname, "articles/healthy-eating.html"),
+        "hcp-question-guide": resolve(__dirname, "articles/hcp-question-guide.html"),
         starter: resolve(__dirname, "articles/starter.html"),
       },
     },
