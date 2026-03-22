@@ -276,7 +276,6 @@ article {
   }
 
   & strong {
-    font-weight: var(--color-4e535b);
     font-weight: 500;
   }
 
